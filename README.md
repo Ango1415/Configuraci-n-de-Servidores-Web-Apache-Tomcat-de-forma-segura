@@ -1,4 +1,4 @@
-![Banner El Arte mas allá del Humano](Baner.png)
+![Banner El Arte mas allá del Humano](Banner.png)
 
 # Configuración-de-Servidores-Web-Apache-Tomcat-de-forma-segura
 
