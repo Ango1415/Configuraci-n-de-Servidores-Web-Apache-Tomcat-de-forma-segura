@@ -8,6 +8,9 @@ de servelets Tomcat.
 Proyecto para la asignatura Sistemas Operacionales presentado por:
 
 Ángel Fabian Gómez Estupiñan.
+
 Esteban Andrés Niño Mendez.
+
 Javier Camilo Rueda Serrano.
+
 Juan Felipe Silva Garcés.
